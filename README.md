@@ -5,7 +5,7 @@ The inspector ui is useful for computers or school computers that have system th
 ### Did you create this?
 Sorry, but I didn't create this. I was trying to spread it so that it can be successful... 
 
-Credits the them, I guess...
+Credits to them, I guess...
 
 ### How to use?
 To use this, simply copy this down, or go to the `source.js` file...
@@ -19,3 +19,5 @@ There's a button in the down-right corner of your site.
 Press it to open up the inspector!
 
 You can explore anything in the inspector! (The only thing you can edit is the `Console`. Sorry...)
+
+(Plus, I only code in Lua. So I don't really know how to code in javascript, btw.)
